@@ -2,11 +2,7 @@
 
 This Project has been created in a group. All the group members information are mentioned below table.
 
-#### Group Members
-| Student ID | Name | Email Address |
-| --- | --- | --- |
-| 301167516 | Abhi Patel | apate853@my.centennialcollege.ca |
-| 301146236 | Jiya Kelawala | jkelawal@my.centennialcollege.ca|
+
 
 Team was approached by a law enforcement security company that would like to incorporate facial recognition and identification into their system. Company has provided the team with the umist_cropped.mat dataset to train Machine Learning system.
 Dataset has images of 20 different person. Images of each person contains different profile of face of that person. Total number of images for each person is different. 
